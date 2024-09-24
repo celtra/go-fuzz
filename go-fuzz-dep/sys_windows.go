@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"unsafe"
 
-	. "github.com/dvyukov/go-fuzz/go-fuzz-defs"
+	. "github.com/celtra/go-fuzz/go-fuzz-defs"
 )
 
 // Can't import reflect because of import cycles.

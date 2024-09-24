@@ -13,7 +13,7 @@ import (
 	"sync"
 	"unicode"
 
-	. "github.com/dvyukov/go-fuzz/go-fuzz-defs"
+	. "github.com/celtra/go-fuzz/go-fuzz-defs"
 )
 
 type SonarSite struct {
