@@ -1,4 +1,4 @@
-module github.com/dvyukov/go-fuzz
+module github.com/celtra/go-fuzz
 
 go 1.13
 
